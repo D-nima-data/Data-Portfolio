@@ -9,9 +9,8 @@ Thanks for stopping by — I’m always open to collaborating, learning, and con
 
 
 <h1>1990s Netflix Movie Analysis — Exploratory Data Analysis Project</h1>
-<p align="center">
-<img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" height="300>
-  </p>
+<img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" height="300 style="display: block; margin: 0 auto;">
+ 
 For this project, I explored a dataset of Netflix titles to better understand movie trends from the 1990s. The goal was to analyze movie durations, identify common patterns, and investigate how many short action movies were produced during the decade. This analysis simulates the type of research a production company might do when developing nostalgic or era-inspired content.
 
 <h3>Objective</h3>
