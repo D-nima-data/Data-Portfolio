@@ -22,7 +22,7 @@ For this project, I explored a dataset of Netflix titles to better understand mo
 
 
 
-Approach
+<h3>Approach</h3>
 
 I began by filtering the dataset (netflix_data.csv) to include only movies (not TV shows) released in the 1990s. After isolating the decade, I analyzed the distribution of movie durations using basic exploratory data analysis techniques.
 
@@ -30,25 +30,23 @@ To identify the typical runtime, I looked at the frequency of each duration valu
 
 Next, I examined the genre column to isolate action movies from the same period. From there, I counted how many titles met the criteria for a short movie — defined as running under 90 minutes.
 
-Results
+<h3>Results</h3>
 
 Most frequent movie duration: Around ___ minutes (saved as duration)
 (You can fill this with your actual computed value.)
 
 Number of short action movies in the 1990s: ___ (saved as short_movie_count)
 
-Key Skills Demonstrated
+<h3>Key Skills Demonstrated</h3>
 
-Exploratory data analysis (EDA)
+<ul>
+  <li>Exploratory data analysis (EDA)</li>
+  <li>Data cleaning and filtering</li>
+  <li>Working with categorical and numerical features</li>
+  <li>Deriving insights from real-world entertainment data</li>
+  <li>Applying logical conditions to define custom metrics</li>
+</ul>
 
-Data cleaning and filtering
-
-Working with categorical and numerical features
-
-Deriving insights from real-world entertainment data
-
-Applying logical conditions to define custom metrics
-
-Reflection
+<h3>Reflection</h3>
 
 This project was a great exercise in examining real-world media trends using data. Beyond simple filtering, it highlighted how much variation exists in movie runtimes across genres and eras. It also reinforced the importance of clearly defining criteria (like “short movie”) and validating assumptions with data before drawing conclusions.
