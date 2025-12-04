@@ -8,8 +8,7 @@ Now based in Berlin, I’m expanding my work into energy, renewables, and analyt
 Thanks for stopping by — I’m always open to collaborating, learning, and contributing to impactful projects.
 
 <h1>1990s Netflix Movie Analysis — Exploratory Data Analysis Project</h1>
-![9251177d3d4de55e03b0ce7f515b391f](https://github.com/user-attachments/assets/bf225ce3-be17-4aa4-b587-953d16b7dd2e)
-
+<img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" alt="Centered Image">
 
 For this project, I explored a dataset of Netflix titles to better understand movie trends from the 1990s. The goal was to analyze movie durations, identify common patterns, and investigate how many short action movies were produced during the decade. This analysis simulates the type of research a production company might do when developing nostalgic or era-inspired content.
 
