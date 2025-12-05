@@ -9,15 +9,15 @@ Thanks for stopping by — I’m always open to collaborating, learning, and con
 
 <p align="center">
   <a href="project1.html">
-    <img src="image1.png" width="200" alt="Project 1">
+    <img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" width="200" alt="Project 1">
   </a>
   
   <a href="project2.html">
-    <img src="image2.png" width="200" alt="Project 2">
+    <img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" width="200" alt="Project 2">
   </a>
 
   <a href="project3.html">
-    <img src="image3.png" width="200" alt="Project 3">
+    <img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" width="200" alt="Project 3">
   </a>
 </p>
 
