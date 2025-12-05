@@ -7,6 +7,20 @@ Now based in Berlin, I’m expanding my work into energy, renewables, and analyt
 
 Thanks for stopping by — I’m always open to collaborating, learning, and contributing to impactful projects.
 
+<p align="center">
+  <a href="project1.html">
+    <img src="image1.png" width="200" alt="Project 1">
+  </a>
+  
+  <a href="project2.html">
+    <img src="image2.png" width="200" alt="Project 2">
+  </a>
+
+  <a href="project3.html">
+    <img src="image3.png" width="200" alt="Project 3">
+  </a>
+</p>
+
 
 <h1>1990s Netflix Movie Analysis — Exploratory Data Analysis Project</h1>
 <img src="images/Netflix/9251177d3d4de55e03b0ce7f515b391f.jpg" height="300 style="display: block; margin: 0 auto;">
