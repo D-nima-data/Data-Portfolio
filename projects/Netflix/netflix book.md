@@ -41,4 +41,4 @@ Number of short action movies in the 1990s: ___ (saved as short_movie_count)
 
 This project was a great exercise in examining real-world media trends using data. Beyond simple filtering, it highlighted how much variation exists in movie runtimes across genres and eras. It also reinforced the importance of clearly defining criteria (like “short movie”) and validating assumptions with data before drawing conclusions.
 
-<a href="projects/Netflix/notebook.ipynb">You can find the link to the book for the codes here</a>
+<a href="Data-Portfolio/projects/Netflix/notebook.ipynb">You can find the link to the book for the codes here</a>
